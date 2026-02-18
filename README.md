@@ -1,4 +1,3 @@
-# hchen03
 # Bank Customer Churn Prediction & Behavioral Segmentation
 
 ## Objective
