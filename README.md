@@ -89,15 +89,3 @@ Based on modeling and segmentation results:
 - Develop engagement strategies for high-risk age groups
 
 ---
-
-## Technologies Used
-
-- Python  
-- Pandas / NumPy  
-- Scikit-learn  
-- LightGBM  
-- XGBoost  
-- SHAP  
-- Matplotlib  
-- KMeans / PCA  
-
