@@ -8,7 +8,7 @@ This project focuses on developing a predictive model for customer churn and ana
 - Develop a machine learning model to predict customer churn.
 - Analyze the behavioral profile of churned customers.
 - Identify key factors associated with customer departure.
-- Provide business-oriented retention insights.
+- Provide a possible strategy.
 
 ---
 
@@ -100,5 +100,4 @@ Based on modeling and segmentation results:
 - SHAP  
 - Matplotlib  
 - KMeans / PCA  
-- Docker
 
