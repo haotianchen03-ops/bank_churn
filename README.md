@@ -82,7 +82,7 @@ Key churn drivers identified:
 
 Based on modeling and segmentation results:
 
-- Propose bundled offers (e.g., savings + insurance)
+- Propose bundled offers (e.g. savings + insurance)
 - Target less active members
 - Focus on customers with fewer products
 - Develop engagement strategies for high-risk age groups
